@@ -1,0 +1,695 @@
+local args = {
+	"Scooter"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"Jurassic2026_InGenUtilityVechicle"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+local args = {
+	"PickingCar",
+	"ScooterVehicle"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"PowerTruck"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"CargoBike"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"ScooterVehicle"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"Cadillac"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"CopChallenger"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"Lambo"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"Minions2026DrivableCameraRig"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"NPHarleyDavison"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"GolfCartElectric2"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"GolfCart"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"Minions2026_StretchLimo"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"JDMCoupe"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"MiniCooper"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"2DoorCoupe"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"SportyHatchback"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"SleekEV"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"CityCar"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"CityHatchback"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"PajeroSUV"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"Jeep"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"September2026MomsMinivan"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"Challenger"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"TransportVan"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"KeiTruck"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"QuadStock"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"NascarTruck"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"StreetSedan"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+
+local args = {
+	"PickingCar",
+	"Bus"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"CopUnderCoverSUV"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"Ambulance"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"CherrypickerTruck"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"SUVFire"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"FireTruck"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"Van"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"CopLambo"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"CopSUV"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"SchoolBus"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"Raptor"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"JettsFoodTruck"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"FoodTruck"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"PoliceMotorcycle"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"Hearse"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"September2025StreetHotHatchTeal1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"Semi"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"Taxi"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"September2025StreetWidebodyCamaroBlue1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"FordGT"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"StudentDriver"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"350Z"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"RV"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"FarmTruck"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"MailTruck"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"ArmoredTruck"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"SnowmobileStock"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"TowTruck"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"PickupTruck"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"SewageTruck"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"GarbageTruck"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"ScissorLift"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"Tractor"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"Snowplow"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"BullDozer"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"Excavator"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"ForkLift"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"Tank"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"MilitaryTruck"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"OldHummer"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"SkateBoard"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
+
+local args = {
+	"WheelChair"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
+
+local args = {
+	"BabyWalker"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
+
+local args = {
+	"Bike"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
+
+local args = {
+	"TandemBike"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
+
+local args = {
+	"GirlBike"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"Jurassic2026_Gyrosphere"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"NewFreeHorse"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"P50"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"ModelT"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"Oldy"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"Whillies"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"Beetle"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"GhostHunting"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"55Chevy"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"VWBus"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"StationWagon"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"Continental"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"67FordTruck"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+--boat--
+
+local args = {
+	"PickingBoat",
+	"Shark"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingBoat",
+	"WaveRunner"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingBoat",
+	"SailBoatFree"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingBoat",
+	"SpeedBoatFree"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingBoat",
+	"PoliceBoatChangeable"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingBoat",
+	"FishingBoat"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingBoat",
+	"MilitaryBoatFree"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingBoat",
+	"Raft"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingBoat",
+	"PirateFree"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+
+local args = {
+	"PickingCar",
+	"SwanCar"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+local args = {
+	"PickingCar",
+	"September2026BeaterCar"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+
+
